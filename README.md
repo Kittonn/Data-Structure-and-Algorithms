@@ -1,2 +1,2 @@
-# Data-Structer-and-Algorithms
-👨🏻‍💻 Learn Data Structer and Algorithms using C++
+# Data-Structure-and-Algorithms
+👨🏻‍💻 👨🏻‍💻 Learn Data Structure and Algorithms using __C++__
