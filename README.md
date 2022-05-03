@@ -11,7 +11,7 @@
    * Heap Sort
 * Searching
    * [Linear Search](/Algorithms/Searching/Linear%20Search/)
-   * Binary Search
+   * [Binary Search](/Algorithms/Searching/Binary%20Search/)
    * Jump Search
 
 ### STL
