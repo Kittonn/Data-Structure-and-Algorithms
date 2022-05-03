@@ -24,6 +24,6 @@ int search(vector<int> myvector, int target)
 int main()
 {
     vector<int> myvector = {1, 2, 3, 4, 5, 6};
-    cout << search(myvector, 5) << endl;
+    cout << search(myvector, 1) << endl;
     return 0;
 }

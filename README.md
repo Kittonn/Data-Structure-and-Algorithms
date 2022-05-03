@@ -18,4 +18,5 @@
 * [Array](/STL/Array)
 * [Vector](/STL/Vector)
 * [Set](/STL/Set)
-
+* [Multiset](/STL/Multiset/)
+* [Map](/STL/Map/)
