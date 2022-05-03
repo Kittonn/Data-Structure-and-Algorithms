@@ -10,7 +10,7 @@
    * Quick Sort
    * Heap Sort
 * Searching
-   * Linear Search
+   * [Linear Search](/Algorithms/Searching/Linear%20Search/)
    * Binary Search
    * Jump Search
 
