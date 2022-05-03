@@ -2,7 +2,7 @@
 
 ### Algorithms
 * Sorting
-   * Bubble Sort
+   * [Bubble Sort](/Algorithms/Sorting/Bubble%20Sort/)
    * Selection Sort
    * Insertion Sort
    * Counting Sort
