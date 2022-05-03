@@ -12,7 +12,7 @@
 * Searching
    * [Linear Search](/Algorithms/Searching/Linear%20Search/)
    * [Binary Search](/Algorithms/Searching/Binary%20Search/)
-   * Jump Search
+   * [Jump Search](/Algorithms/Searching/Jump%20Search/)
 
 ### STL
 * [Array](/STL/Array)
