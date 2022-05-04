@@ -3,17 +3,17 @@ using namespace std;
 
 void insertion(vector<int> &Vector)
 {
-    int key, j;
-    for (int i = 0; i < Vector.size(); i++)
+    int hole, value;
+    for (int i = 1; i < Vector.size(); i++)
     {
-        key = Vector[i];
-        j = i - 1;
-        while (j >= 0 && Vector[j] > key)
+        value = Vector[i];
+        hole = i;
+        while (hole > 0 && Vector[hole - 1] > value)
         {
-            Vector[j + 1] = Vector[j];
-            j -= 1;
+            Vector[hole] = Vector[hole - 1];
+            hole -= 1;
         }
-        Vector[j + 1] = key;
+        Vector[hole] = value;
     }
 }
 

@@ -1,6 +1,16 @@
-# Data Structure and Algorithms
+# Data Structures and Algorithms
+
+### Data Structures
+
+* [Array](/Data%20Structures/Array/)
+* Linked List
+* Queue
+* Stack
+* Graph
+* Tree
 
 ### Algorithms
+
 * Sorting
    * [Bubble Sort](/Algorithms/Sorting/Bubble%20Sort/)
    * [Selection Sort](/Algorithms/Sorting/Selection%20Sort/)
