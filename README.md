@@ -4,7 +4,7 @@
 * Sorting
    * [Bubble Sort](/Algorithms/Sorting/Bubble%20Sort/)
    * [Selection Sort](/Algorithms/Sorting/Selection%20Sort/)
-   * Insertion Sort
+   * [Insertion Sort](/Algorithms/Sorting/Insertiong%20Sort/)
    * Counting Sort
    * Merge Sort
    * Quick Sort
